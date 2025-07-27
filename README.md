@@ -2,7 +2,6 @@
 
 A simple, clean web-based calorie tracker that helps users quickly calculate the calories of selected food items using a category-based dropdown and a dynamic progress bar.
 
----
 
 ## 📌 Project Details
 
@@ -45,7 +44,7 @@ If you found this project useful:
 🛠️ Fork and build something new
 
 👨‍💻 Author
-Gousulla P
+Gous Patan
 Final Polish & Upload : July 15, 2025
 
 
