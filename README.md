@@ -1,4 +1,4 @@
-# 🥗 Calorie Meter
+# Calorie Meter
 
 A simple, clean web-based calorie tracker that helps users quickly calculate the calories of selected food items using a category-based dropdown and a dynamic progress bar.
 
